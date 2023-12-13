@@ -1,2 +1,3 @@
 # MechEpi
-Mechanistic vs Non-Mechanistic Model Testing
+Mechanistic vs Non-Mechanistic Model Testing Github
+
