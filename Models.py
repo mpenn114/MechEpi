@@ -135,7 +135,7 @@ class Linear_Regressor:
     
     '''
     
-    The outputs should be a numpy vector of size (len(test_df),weeks_ahead) 
+    The outputs should be a dataframe with new columns for the predictions (as the rightmost columns in the df)
     
     '''
     
